@@ -1,0 +1,19 @@
+{
+  "name": "wangding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangfan789789/abcdefg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangfan789789/abcdefg/issues"
+  },
+  "homepage": "https://github.com/yangfan789789/abcdefg#readme"
+}
