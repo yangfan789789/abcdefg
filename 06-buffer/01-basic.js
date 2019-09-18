@@ -14,7 +14,7 @@ log('\nbuf1',buf1);
 
 var buf2 = buf1.slice(250,256);
 log('\nbuf2',buf2);
-
+h5A406,A402 6.28 2.30-4.30
 buf2.fill(0);
 log('\nbuf2:',buf2);
 log('\nbuf2\s JSON:',buf2.toJSON());
